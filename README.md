@@ -62,3 +62,16 @@ What is Redis?
 
 	https://github.com/rahamath18/Redis-Java-Client-Example
 	
+
+## Note
+
+The MSOpenTech-Redis project is no longer being actively maintained. If you are looking for a Windows version of Redis, you may want to check out Memurai. Please note that Microsoft is not officially endorsing this product in any way. More details in https://github.com/microsoftarchive/redis
+
+To install & setup Redis Server on Windows 10 https://redislabs.com/blog/redis-on-windows-10
+
+To install & setup Redis Server on macOS & Linux https://redis.io/download
+
+Also, you may install & setup Redis Server on Linux via the package manager
+
+For quick Redis Server Installation & Setup Guide for macOS https://github.com/rahamath18/Redis-on-MacOS
+	
