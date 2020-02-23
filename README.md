@@ -10,11 +10,11 @@ What is Redis?
 	geospatial indexes with radius queries and streams. Redis has built-in replication, 
 	Lua scripting, LRU eviction, transactions and different levels of on-disk 
 	persistence, and provides high availability via Redis Sentinel and automatic 
-	partitioning with Redis Cluster. Learn more 
-	https://redis.io/topics/introduction
+	partitioning with Redis Cluster. Learn more https://redis.io/topics/introduction
 
 
 ### Download - Redis Server
+
 	https://redis.io/download
 
 
@@ -62,7 +62,8 @@ What is Redis?
 ## Refer following GitHub project for Java Client to connect with Redis Server
 
 	https://github.com/rahamath18/Redis-Java-Client-Example
-	
+
+
 
 ## Note
 
