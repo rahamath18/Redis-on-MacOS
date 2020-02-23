@@ -65,7 +65,7 @@ What is Redis?
 
 
 
-## Note
+## Note:
 
 The MSOpenTech-Redis project is no longer being actively maintained. If you are looking for a Windows version of Redis, you may want to check out Memurai. Please note that Microsoft is not officially endorsing this product in any way. More details in https://github.com/microsoftarchive/redis
 
