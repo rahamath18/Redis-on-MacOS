@@ -1,5 +1,5 @@
 
-## Redis Server & Redis Client on macOS
+## Redis Server on macOS
 
 
 What is Redis?
