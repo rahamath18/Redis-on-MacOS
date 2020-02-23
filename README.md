@@ -59,6 +59,33 @@ What is Redis?
 	127.0.0.1:6379> get dev_name
 	
 	
+## Redis Desktop Manager as Client
+
+### What is Redis Desktop Manager
+
+	Redis Desktop Manager (aka RDM) — is a fast Redis database management application for Windows, Linux, MacOS and iPadOS.
+
+### Download and Install Redis Desktop Manager
+
+	Step 1: Download redis-desktop-manager-2019.5.181.dmg  from  https://redisdesktop.com/subscriptions
+	
+	Step 2: Install redis-desktop-manager-2019.5.181.dmg
+	
+	Step 3: After installation, open Redis Desktop Manager
+	
+	Step 4: Click on 'Connect to Redis Server'
+	
+	Step 5: Enter following Redis Server Connection Settings
+			- Connection Name
+			- Redis Server IP (default: 127.0.0.1)
+			- Redis Server Port (default: 6379)
+			- Enter SSL, SSL Tunnel and other necessary details
+			
+	Step 6: Test Connection and click 'OK'
+	
+	Step 7: Left side click on the 'Connection Name' to extend and check the Keys & Values
+	
+
 ## Refer following GitHub project for Java Client to connect with Redis Server
 
 	https://github.com/rahamath18/Redis-Jedis-Java-Client-Example
