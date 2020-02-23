@@ -61,7 +61,7 @@ What is Redis?
 	
 ## Refer following GitHub project for Java Client to connect with Redis Server
 
-	https://github.com/rahamath18/Redis-Java-Client-Example
+	https://github.com/rahamath18/Redis-Jedis-Java-Client-Example
 
 
 ## Note:
